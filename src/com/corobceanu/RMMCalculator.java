@@ -3,7 +3,7 @@ package com.corobceanu;
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 
-public class Main {
+public class RMMCalculator {
 
     private static final BigDecimal TWELVE_HUNDRED = BigDecimal.valueOf(1200);
     private static final BigDecimal HUNDRED = BigDecimal.valueOf(100);
